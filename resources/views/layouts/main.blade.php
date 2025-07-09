@@ -18,7 +18,7 @@
       {{-- <title>x.digimar.id – Maksimalkan Cuitan, Jangkau Audiens Lebih Luas</title>
       <meta name="title" content="x.digimar.id – Maksimalkan Cuitan, Jangkau Audiens Lebih Luas">
       <meta name="description" content="Kelola, jadwalkan, dan analisa akun X (Twitter) Anda dari satu tempat. Gunakan strategi konten cerdas untuk membangun branding dan interaksi.">
-      <meta name="keywords" content="manajemen akun X, strategi twitter, twitter marketing, cuitan bisnis, jadwal twitter, optimasi X, branding X, analisa akun twitter, digimar twitter"> --}}
+      <meta name="keywords" content="manajemen akun X, strategi twitter, twitter marketing, cuitan bisnis, jadwal twitter, optimasi X, branding X, analisa akun twitter, digimar twitter, tweet, retweet"> --}}
       <meta name="author" content="ig.digimar.id">
       <meta property="og:title" content="x.digimar.id – Maksimalkan Cuitan, Jangkau Audiens Lebih Luas">
       <meta property="og:description" content="Kelola, jadwalkan, dan analisa akun X (Twitter) Anda dari satu tempat. Gunakan strategi konten cerdas untuk membangun branding dan interaksi.">

@@ -11,7 +11,7 @@
 
     <title>{{ $meta['meta'][$lang]['title'] ?? 'x.digimar.id – Maksimalkan Cuitan, Jangkau Audiens Lebih Luas' }}</title>
     <meta name="description" content="{{ $meta['meta'][$lang]['description'] ?? 'Kelola, jadwalkan, dan analisa akun X (Twitter) Anda dari satu tempat. Gunakan strategi konten cerdas untuk membangun branding dan interaksi.' }}">
-    <meta name="keywords" content="{{ $meta['meta'][$lang]['keywords'] ?? 'imanajemen akun X, strategi twitter, twitter marketing, cuitan bisnis, jadwal twitter, optimasi X, branding X, analisa akun twitter, digimar twitter' }}">
+    <meta name="keywords" content="{{ $meta['meta'][$lang]['keywords'] ?? 'imanajemen akun X, strategi twitter, twitter marketing, cuitan bisnis, jadwal twitter, optimasi X, branding X, analisa akun twitter, digimar twitter, tweet, retweet' }}">
    <!-- Schema Item -->
     {{-- Schema Item --}}
     @if (!empty($meta['schema'][$lang]))
